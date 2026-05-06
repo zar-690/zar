@@ -10,38 +10,35 @@
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- I’m a Data Analyst who enjoys turning complex data into simple, actionable insights that help businesses grow.
-- 📊 Hands-on experience in Power BI, SQL & Advanced Excel
-- 📈 Built dashboards across Finance, Sales & Operations domains
-- 🔍 Strong in data cleaning, validation & KPI analysis
-- 💼 Experience in data reporting & business insights generation
-- 🎯 Goal: To create impactful, data-driven solutions
-- ⚡ What I Bring
-- ✨ Clean & structured data analysis
-- 📊 Interactive dashboards & visual storytelling
-- 📈 Business-focused insights (not just numbers)
-- ⚙️ Efficient reporting & automation
-- 🛠️ Tools & Technologies
-- 💻 Power BI | 📊 Excel | 🗄️ SQL (MySQL, SQL Server)
-- 📈 Power Query | 📉 DAX | 📑 Google Sheets
-- 🐍 Python (Basic)
-- 🚀 Featured Work
-- 🔷 Business Insights 360
-- 📊 Full-scale dashboard for Finance, Sales & Supply Chain
-- ✔️ KPI tracking, pricing insights & performance analysis
-- 🔗 https://github.com/zar-690/Business-Insights-360-Dashboard-for-Finance-Sales-Marketing-and-Supply-Chain
-- 🔷 Hospitality Analytics
-- 🏨 Revenue & market share insights
-- ✔️ ADR, RevPAR & occupancy analysis
-- 🔗 https://github.com/zar-690/AtliQ--Hospitality-Analysis
-- 🔷 Consumer Goods Analytics
-- 🛒 SQL-driven business problem solving
-- ✔️ Ad-hoc insights for sales & product teams
-- 🔗 https://github.com/zar-690/SQL_PROJECT_CODEBASICS
-- 🔷 Sales & Finance Analytics
-- 📈 MIS reporting & performance dashboards
-- ✔️ Automated Excel-based reporting
-- 🔗 https://github.com/zar-690/Excel-Sales-Analytics
+- I’m a Data Analyst with hands-on experience in Power BI, SQL, and Advanced Excel, focused on building dashboards, analyzing business data, and delivering insights that support decision-making.
+- 🎓 B.Tech in Information Technology (2023)
+- 💼 Data Analyst Intern @ AtliQ Technologies
+- 📊 Built dashboards for finance, sales, and operations
+- 🔍 Strong in data cleaning, validation & KPI tracking
+- 🎯 Interested in MIS Analyst / Data Analyst roles
+- 🛠️ Tech Stack
+- Visualization: Power BI, Excel
+- Databases: MySQL, SQL Server
+- Analysis: Excel (Pivot Tables, VLOOKUP, Power Query)
+- Tools: Google Sheets, MS Office
+- Basics: Python
+- 📌 Featured Projects
+- 🔹 Business Insights 360
+- Built end-to-end Power BI dashboards across finance, sales & supply chain
+- Designed data models and tracked KPIs
+- 👉 https://github.com/zar-690/Business-Insights-360-Dashboard-for-Finance-Sales-Marketing-and-Supply-Chain
+- 🔹 Consumer Goods Analytics
+- Solved business problems using SQL & Power BI
+- Delivered ad-hoc insights for product & sales teams
+- 👉 https://github.com/zar-690/SQL_PROJECT_CODEBASICS
+- 🔹 Hospitality Analytics
+- Analyzed occupancy, ADR & RevPAR trends
+- Built dashboard for pricing and demand insights
+- 👉 https://github.com/zar-690/AtliQ--Hospitality-Analysis
+- 🔹 Sales & Finance Analytics
+- Created MIS reports and performance dashboards
+- Automated reporting using Excel
+- 👉 https://github.com/zar-690/Excel-Sales-Analytics
 
 
 ## 🧠 My Focus Areas
@@ -138,6 +135,3 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
-
-
-
